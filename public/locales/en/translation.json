@@ -1,0 +1,147 @@
+{
+    "announce":{
+        "0":"Super Deal ! Your domain and hosting services is free for one year"
+    },
+    "homeNav":{
+        "0":"HOME"
+    },
+    "servicesNav":{
+        "0":"SERVICES"
+    },
+    "restaurantNav":{
+        "0":"QR RESTAURANT MENU"
+    },
+    "graphNav":{
+        "0":"GRAPHIC DESIGN"
+    },
+    "webdesignNav":{
+        "0":"WEB DESIGN"
+    },
+    "ecommerceNav":{
+        "0":"E-COMMERCE"
+    },
+    "aboutusNav":{
+        "0":"ABOUT US"
+    },
+    "contactNav":{
+        "0":"CONTACT"
+    },
+    "buttonGetOffer":{
+        "0":"Get Offer"
+    },
+    "goDetailButton": {
+        "0":"Go Detail"
+    },
+    "box": {
+        "0":"RESPONSIVE DESIGN",
+        "1":"ORIGINAL SOFTWARE",
+        "2":"EFFECTIVE UI/UX"
+    },
+    "process":{
+        "0":"Product Development Process",
+        "1":"After receiving your order, we start the transactions without wasting any time. After the meeting with our teammates, we carry out the design work in line with your wishes. After the design work, we introduce our product to you for your preliminary approval. In line with your approval, we move on to the programming and production part. we deliver."
+    },
+
+    "homepage":{
+    "card1":{
+        "0":"WE ARE READY FOR YOUR IT SOLUTIONS",
+        "1":"BBA IT is ready to develop software upon your request with its expert software team.BBA IT will be your indispensable company for a well-designed website and e-commerce systems."
+    },
+    "card2":{
+        "0":"DO YOU WANT A WEBSITE",
+        "1":"BBA IT designs your personal or business websites with unique and original software"
+    },
+    "card3":{
+        "0":"WE PREPARE YOUR E-COMMERCE SYSTEMS WITH OUR OWN SOFTWARE",
+        "1":"BBA IT is ready to develop software upon your request with its expert software team.BBA IT will be your indispensable company for a well-designed website and e-commerce systems."
+    },
+    "card4":{
+        "0":"OUR SOFTWARES HAS EXCULUSIVES SECURITY",
+        "1":"BBA IT create your personal or business websites with exculusive security."
+    }
+},
+    "webdesign":{
+        "orderButton":{
+        "0":"Order Now"
+        },
+
+        "card1":{
+            "0":"WE PRESENT YOUR COMPANY TO THE DIGITAL WORLD",
+            "1":"BBA IT is ready to develop software upon your request with its expert software team.BBA IT will be your indispensable company for a well-designed website and e-commerce systems."
+        },
+        "card2":{
+            "0":"%100 REFUND FOR COSTUMER SATISFACTION",
+            "1":"You can get a refund within 30 days without any problems"
+        }
+
+
+    },
+    "ecommerce":{
+        "card1":{
+            "0":"YOUR ARE IN THE RIGHT PLACE A SET UP A E-COMMERCE WEBSITE",
+            "1":"BAA IT provides to selling your products online."
+        },
+        "card2":{
+            "0":"BBA IT PROVIDE YOU SAFE APPLICATIONS",
+            "1":"Our products are prepared by prioritizing customer safety. We perform your virtual pos transactions using iyzico as a payment method. Iyzico offers you safe shopping. We also take measures against ssl certificates internet hackers and many more..."
+        },
+        "card3":{
+            "0":"CONTROLS ARE IN YOUR HANDS WITH OUR ADMIN PANELS",
+            "1":"We are developing an admin panel with an easy-to-use interface where you can manage your site, orders, users etc"
+        }
+
+    },
+    "graph":{
+        "card1":{
+            "0":"LOGO DESIGN",
+            "1":"We make creative and remarkable logo designs that will reflect your company for you."
+        },
+        "card2":{
+            "0":"DIGITAL ADVERTISING",
+            "1":"We create content for your social media, products, content and many areas and present our designs to you in the best way. BBA informatics presents your social media ads, which is the most important way of reaching customers in the digital age."
+        },
+        "card3":{
+            "0":"VIDEO ADVERTISING",
+            "1":"We collect information about the sector in which your company is located, blend them with your wishes and create impressive advertising videos for you."
+        }
+
+    },
+    "qr":{
+        "card1":{
+            "0":"WHAT IS QR MENU ?",
+            "1":"QR MENU is the digital version of your restaurant menu designed by our designers."
+        },
+        "card2":{
+            "0":"WHY QR MENU ?",
+            "1":"The customer is the number one factor in you, like us, and by taking this into account, QR MENU is to enable your customer to start making decisions from the moment they sit at the table and to save time for you and your employees."
+        },
+        "card3":{
+            "0":"HOW DOES IT WORK ?",
+            "1":"QR MENU If your restaurant has an existing website, it works by opening your menu, which is integrated into your site's subdomain, by the QR code."
+        }
+
+    },
+    "contact":{
+        "0":"GET CONTACT WITH US",
+        "1":"Call  Now",
+        "2":"Send Mail"
+    },
+"aboutus":{
+    "0":"ABOUT US",
+    "1":"BBA IT continues its software preparations with its software developer and designer team.BBA IT provides quality and reliable service to its customers who want to take their place in the digital world.. BBA IT produces original designs and original software and makes them available to you, avoiding providing you with poor quality services with software that will not be designed in any way. Among the software solutions of BBA IT, content management systems such as wordpress and woocomerce are not included, but it produces its own software. BBA IT keeps at the forefront of the IT industry and continues to do so with the policy that the customer is right when the time is right."
+},
+"type":{
+    "0":"We design your",
+    "1":"Personal Web Pages",
+    "2":"Business Web Pages",
+    "3":"E-Commerce Web Pages",
+    "4":"QR Restaurant Menu"
+},
+    "faq":{
+        "0":"en",
+        "1":"F.A.Q"
+    }
+
+
+
+}

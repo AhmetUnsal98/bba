@@ -1,0 +1,29 @@
+[
+    {
+     "id": 1,
+     "question": "Özel yazılımlar kullanıyor musunuz (Wordpress, opencart vb.) ?",
+     "answer": "Hayır, mühendislerimiz ve tasarımcılarımız tarafından geliştirilen kendi yazılımımızı kullanıyoruz"
+    },
+    {
+     "id": 2,
+     "question": "Web siteleriniz responsive tasarım mı ?",
+     "answer": "Evet, bütün sitelerimiz farketmeksizin responsive tasarımdır."
+    },
+    {
+     "id": 3,
+     "question": "Hizmetleriniz ilk defa hizmet alanlar için uygun mu?",
+     "answer": "Evet, hepsi yeni müşteriler için uygundur."
+    },
+    {
+     "id": 4,
+     "question": "İstediğimiz zaman teknik destek alabilir miyiz? ?",
+     "answer": "İstediğiniz zaman teknik destek alabilirsiniz. 7/24"
+    },
+    {
+        "id": 5,
+        "question": "Web siteleriniz bir online ödeme yöntemi içeriyor mu?",
+        "answer": "Evet,Iyzico aracılığyla güvenli ödeme yöntemi sunuyoruz."
+       }
+
+
+   ]

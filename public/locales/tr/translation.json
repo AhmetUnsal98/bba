@@ -1,0 +1,142 @@
+{
+    "announce":{
+        "0":" Süper kampanya ! Bir yıllık domain ve hosting servisiniz ücretsiz."
+    },
+    "homeNav":{
+        "0":"ANASAYFA"
+    },
+    "webdesignNav":{
+        "0":"WEB TASARIM"
+    },
+    "servicesNav":{
+        "0":"HİZMETLERİMİZ"
+    },
+    "restaurantNav":{
+        "0":"QR RESTORAN MENÜ"
+    },
+    "graphNav":{
+        "0":"GRAFİK TASARIM"
+    },
+    "ecommerceNav":{
+        "0":"E-TİCARET"
+    },
+    "aboutusNav":{
+        "0":"HAKKIMIZDA"
+    },
+    "contactNav":{
+        "0":"İLETİŞİM"
+    },
+    
+    "buttonGetOffer":{
+        "0":"Teklif Al"
+    },
+    "goDetailButton": {
+        "0":"Detay"
+    },
+    "box": {
+        "0":"RESPONSIVE TASARIM",
+        "1":"ORJİNAL YAZILIM",
+        "2":"KULLANIŞLI UI/UX"
+    },
+    "process":{
+        "0":"Ürün Geliştirme Süreci",
+        "1":"Siparişinizi aldıktan sonra vakit kaybetmeden işlemlere başlıyoruz. Ekip arkadaşlarımızla görüştükten sonra istekleriniz doğrultusunda tasarım çalışmalarını gerçekleştiriyoruz. Tasarım çalışmasının ardından ön onayınız için ürünümüzü sizlere tanıtıyoruz. Onayınız doğrultusunda programlama ve üretim kısmına geçiyoruz ve teslim ediyoruz."
+    },
+
+    "homepage":{
+    "card1":{
+        "0":"BİLİŞİM ÇÖZÜMLERİNİZ İÇİN HAZIRIZ",
+        "1":"BBA Bilişim, uzman yazılım ekibi ile isteğiniz üzerine yazılım geliştirmeye hazırdır.İyi tasarlanmış bir web sitesi ve e-ticaret sistemleri için BBA IT vazgeçilmez firmanız olacaktır."
+    },
+    "card2":{
+        "0":"BİR WEB SİTENİZ OLSUN MU İSTİYORSUNUZ ?",
+        "1":"BBA IT, kişisel veya kurumsal web sitelerinizi benzersiz ve özgün yazılımlarla tasarlar."
+    },
+    "card3":{
+        "0":"KENDİ FİRMAMIZA ÖZGÜN YAZILIMLAR İLE SİZİN İÇİN E-TİCARET SİSTEMLERİ KURUYORUZ",
+        "1":"BBA Bilişim, uzman yazılım ekibi ile isteğiniz üzerine yazılım geliştirmeye hazırdır.İyi tasarlanmış bir web sitesi ve e-ticaret sistemleri için BBA IT vazgeçilmez firmanız olacaktır."
+    },
+    "card4":{
+        "0":"YAZILIMLARIMIZ MÜKEMMEL SEVİYEDE GÜVENLİKLİDİR.",
+        "1":"BBA bilişim yazılımları mükemmek seviyede güvenliklidir."}
+    },
+
+    "webdesign":{
+        "orderButton":{
+            "0":"Sipariş Ver"
+            },
+        "card1":{
+            "0":"ŞİRKETİNİZİ DİJİTAL DÜNYAYA SUNUYORUZ",
+            "1":"BBA Bilişim, uzman yazılım ekibi ile isteğiniz üzerine yazılım geliştirmeye hazırdır. BBA Bilişim, iyi tasarlanmış bir web sitesi ve e-ticaret sistemleri için vazgeçilmez şirketiniz olacaktır."
+        },
+        "card2":{
+            "0":"%100 GERİ ÖDEME İLE MÜŞTERİ MEMNUNİYETİ ÖNCELİĞİMİZ",
+            "1":"14 gün içinde sorunsuz iade alabilirsiniz."
+        }
+    },
+    "ecommerce":{
+        "card1":{
+            "0":"E-TİCARET SİTESİ KURMAK İÇİN DOĞRU YERDESİNİZ",
+            "1":"BBA Bilişim, ürünlerinizi çevrimiçi satmanız için sizlere e-ticaret sistemleri kurar."
+        },
+        "card2":{
+            "0":"BBA BİLİŞİM GÜVENLİ UYGULAMALAR ÜRETİR",
+            "1":"Ürünlerimiz müşteri güvenliği ön planda tutularak hazırlanmaktadır. Sanal pos işlemlerinizi ödeme yöntemi olarak iyzico kullanarak gerçekleştiriyoruz. Iyzico size güvenli alışveriş imkanı sunuyor. Ayrıca ssl sertifikaları internet korsanlarına ve daha pek çok şeye karşı önlem alıyoruz..."
+        },
+        "card3":{
+            "0":"HAZIRLADIĞIMIZ ADMİN PANELLERİ İLE KONTROL SİZİN ELLERİNİZDE",
+            "1":"Sitenizi, siparişlerinizi, kullanıcılarınızı vb. yönetebileceğiniz, kullanımı kolay bir arayüze sahip bir admin paneli geliştiriyoruz.."
+        }
+
+    },
+    "graph":{
+        "card1":{
+            "0":"LOGO TASARIMI",
+            "1":"Sizler için firmanınızı yansıtacak yaratıcı ve dikkat çekici logo tasarımları yapıyoruz."
+        },
+        "card2":{
+            "0":"DİJİTAL REKLAM",
+            "1":"Sizlerin sosyal medya , ürün , içerik ve bir çok alana içerik oluşturup tasarımlarımızın en iyi şekilde size"
+        },
+        "card3":{
+            "0":"VİDEO REKLAM",
+            "1":"Firmanızın yer aldığı sektör hakkında bilgileri toplar sizlerinde istekleriyle harmanlayıp sizler için etkileyici reklam"
+        }
+
+    },
+    "qr":{
+        "card1":{
+            "0":"QR MENU NEDİR ?",
+            "1":"QR MENU Tasarımcılarımız tarafından tasarlanan restoran menünüzün dijitale dökülmüş halidir."
+        },
+        "card2":{
+            "0":"NEDEN QR MENU ?",
+            "1":"Müşteri bizler gibi sizlerinde bir numaralı unsuru bunu dikkate alarak müşterinizin masaya oturduğu andan itibaren karar vermeye başlamasını sağlamak ve siz ve çalışanlarınıza zaman kazandırmaktır için QR MENU."
+        },
+        "card3":{
+            "0":"NASIL ÇALIŞIR ?",
+            "1":"QR MENU Restoranınızın var olan bir websitesi var ise sitenizin alt domainine entegre olan menünüzün QR kod tarafından açılmasıyla çalışır"
+        }
+
+    },
+    "contact":{
+        "0":"BİZİMLE İLETİŞİME GEÇ",
+        "1":"ARA",
+        "2":"MAİL GÖNDER"
+    },
+    "aboutus":{
+        "0":"HAKKIMIZDA",
+        "1":"BBA bilişim, uzman yazılımcı ve tasarım ekibiyle kurulduğu yıldan bugüne yazılım çözümleri geliştirmeye ve sunmaya devam ediyor. Dijital dünyada yerini almak isteyen müşterilerine kaliteli ve güvenilir hizmet sağlıyor. BBA bilişim özgün tasarımlar ve özgün yazılımlar üretir ve sizlerin kullanımına sunar, herhangi bir şekilde işinize yaramayacak veyahut geçici yazılımlarla sizlere kalitesiz hizmet vermekten uzak durur. BBA bilişimin yazılım çözümleri arasında wordpress ve woocomerce gibi içerik yönetim sistemleri yer almaz kendi yazılımlarını üretir. BBA bilişim müşteri memnuniyetini ön planda tutan , müşteri her zaman haklıdır polikasıyla üretim yapmaya devam ediyor."
+    },
+    "type":{
+        "0":"BBA Bilişim sizin için",
+        "1":"Kişisel Web Sitenizi tasarlar",
+        "2":"Kurumsal Web Sitenizi tasarlar",
+        "3":"E-Ticaret Sitenizi tasarlar",
+        "4":"QR Restoran Menu"
+    },
+    "faq":{
+        "0":"tr",
+        "1":"S.S.S"
+    }
+}

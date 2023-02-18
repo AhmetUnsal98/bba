@@ -1,0 +1,29 @@
+[
+    {
+     "id": 1,
+     "question": "Do you use special softwares (Wordpress , opencart etc.) ?",
+     "answer": "No, We are using our own software developed by our engineers and designers"
+    },
+    {
+     "id": 2,
+     "question": "Are your websites reponsive design ?",
+     "answer": "Yes, All of our websites are reponsive"
+    },
+    {
+     "id": 3,
+     "question": "Are your services beginners friendly ?",
+     "answer": "Yes, they are"
+    },
+    {
+     "id": 4,
+     "question": "Can we get technical support whenever we want ?",
+     "answer": "You can get technical support whenever and wherever you want. 7/24"
+    },
+    {
+        "id": 5,
+        "question": "Do your websites include an online payment method?",
+        "answer": "Yes, we provide online payment with Iyzico safely."
+       }
+
+
+   ]
